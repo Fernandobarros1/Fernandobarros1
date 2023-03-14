@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey! 👋🏻
 
-<!--
-**Fernandobarros1/Fernandobarros1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fernando, a 19 year old developer from Brazil.
+---
+* _Founder and CEO at_ [fwkweb](https://fwkweb.com.br/)
+* _IT Technician at_ [ETEC](https://www.vestibulinhoetec.com.br/home/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+~~~Javascript
+const fernando = {
+  skills: [Javascript, PHP, HTML, CSS, MySQL],
+  tools: [React, Node, VueJs, Angular_9, Gulp, WebPack],
+  message: ["Thanks for visiting! Hope you have a nice day!"]
+}
+~~~
+
+---
+
