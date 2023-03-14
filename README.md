@@ -2,8 +2,8 @@
 
 I'm Fernando, a 19 year old developer from Brazil.
 ---
-* _Founder and CEO at_ [fwkweb](https://fwkweb.com.br/)
-* _IT Technician at_ [ETEC](https://www.vestibulinhoetec.com.br/home/)
+* _Founder and CEO at_ <a href="https://fwkweb.com.br/" target="_blank">fwkweb</a>
+* _IT Technician at_ <a href="https://www.vestibulinhoetec.com.br/home/" target="_blank">ETEC</a>
 
 
 
