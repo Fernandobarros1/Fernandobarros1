@@ -22,3 +22,7 @@ const fernando = {
 <div>
   <a href="https://www.linkedin.com/in/fernando-barros-21830826a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</img></a>
 </div>
+
+<p align="center">
+  <img src="https://github.com/Fernandobarros1/Fernandobarros1/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
